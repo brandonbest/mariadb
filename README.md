@@ -1,5 +1,5 @@
 # Maria DB
-Docker setup for a local mariadb instance
+Docker setup for a local mariadb instance. The database is stored in the /data directory, so removing the Docker image or container will not delete your data.
 
 1. Install this git repo
 2. Make sure Docker is installed
